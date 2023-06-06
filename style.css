@@ -14,7 +14,7 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url("bg.mp4") no-repeat center;
+  background: url("https://www.desktophut.com/files/1654715160-1654715160-pc-minecraft-tower-live-wallpaper.mp4") no-repeat center;
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 20s forwards;
           animation: backgroundZoomAnimate 20s forwards;
