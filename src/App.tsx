@@ -366,7 +366,7 @@ export default function App() {
                 <a className="icon-link" href="https://github.com/yokiidev" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <GithubIcon />
                 </a>
-                <a className="icon-link" href="https://linkedin.com/in/ton-profil" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <a className="icon-link" href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <LinkedinIcon />
                 </a>
               </div>
