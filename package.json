@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "bun --bun vite",
     "build": "bun --bun vite build",
-    "start": "bun .fulgur/start.ts"
+    "start": "bun .fulgur/start.ts",
+    "preview": "bun --bun vite preview"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.107.1",
