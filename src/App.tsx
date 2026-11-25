@@ -84,7 +84,7 @@ export default function App() {
 
         {/* Photo */}
         <img
-          src="/rue_du_gros_horloge_rouen.jpg"
+          src="/Assets/images/rue_du_gros_horloge_rouen.jpg"
           alt="Rue du Gros-Horloge, Rouen"
           className="h-[400px] w-full rounded-[14px] object-cover min-[801px]:h-[78vh] min-[801px]:max-h-[850px]"
         />
